@@ -1,7 +1,7 @@
 # gcloud-batch-transcription
 # Overview
 
-This script transcribes batches of audio files using Google Cloud's Speech-to-Text API. It then automatically structures the data into a pandas DataFrame with filenames and corresponding transcriptions.
+This script transcribes batches of audio files using Google Cloud's Speech-to-Text API and structures the output into a pandas DataFrame with filenames and corresponding transcriptions.
 
 ☀️ Recommended for qualitative researchers transcribing audio interviews or survey voice notes.
 
